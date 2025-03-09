@@ -1,5 +1,5 @@
 ## Acknowledgments
-Special thanks to [AzileJohari57](https://github.com/AzileJohari57) for project inspiration and insights.
+Special thanks to [AzlieJohari57](https://github.com/AzlieJohari57) for project inspiration and insights.
 
 # Real-Time-Tesla-Stock-Price-Forecasting
 
