@@ -1,3 +1,6 @@
+## Acknowledgments
+Special thanks to [AzileJohari57](https://github.com/AzileJohari57) for project inspiration and insights.
+
 # Real-Time-Tesla-Stock-Price-Forecasting
 
 Developed an AI-powered Tesla stock price forecasting model
